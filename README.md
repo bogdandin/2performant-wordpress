@@ -1,5 +1,7 @@
 # 2performant-wordpress
 Implementare 2performant pe wordpress
+
+
 <?php 
 // i used Snippet Plugin
 // code for  single product...
